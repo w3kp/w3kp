@@ -7,13 +7,13 @@ managing, designing and securing cloud infrastructure with Amazon Web Services.
 
 ### 10 years of IT experience in software engineering.
 
-🔢 *Programming Languages*: JavaScript, Ruby, Elixir, Python, PHP, C# and Java<br>
+📝 *Programming Languages*: JavaScript, Ruby, Elixir, Python, PHP, C# and Java/Kotlin<br>
 💻 *Application Frameworks*: Node.Js, React, Angular, Ruby on Rails, Laravel and .Net Core<br>
 🤖 *Automation*: Docker, Bash, Terraform, AWS Cloudformation and Kubernetes<br>
-🔗 *Markup / Frontend*: HTML, Javascript and CSS<br>
-☁️ *Cloud*: Amazon Web Services, Kubernetes, Heroku and Digital Ocean<br>
-📦 *Databases*: MySQL, PostgreSQL<br>
-🆚 *Version Control*: Git<br>
+🌐 *Markup / Frontend*: HTML, Javascript and CSS<br>
+🎈 *Cloud*: Amazon Web Services, Kubernetes, Heroku and Digital Ocean<br>
+🗄 *Databases*: MySQL, PostgreSQL<br>
+💾 *Version Control*: Git<br>
 ⚙️ *Operating Systems*: Linux, Mac OS X, Windows<br>
 
 <!--
