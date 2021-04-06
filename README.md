@@ -13,7 +13,7 @@ managing, designing and securing cloud infrastructure with Amazon Web Services.
 🌐 *Markup / Frontend*: HTML, Javascript and CSS<br>
 🎈 *Cloud*: Amazon Web Services, Kubernetes, Heroku and Digital Ocean<br>
 🗄 *Databases*: MySQL, PostgreSQL<br>
-💾 *Version Control*: Git<br>
+⚡ *Version Control*: Git<br>
 ⚙️ *Operating Systems*: Linux, Mac OS X, Windows<br>
 
 <!--
