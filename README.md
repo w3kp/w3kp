@@ -5,8 +5,6 @@ My name is Paul and I am a Full Stack Software Engineer. AWS Certified 3X. Techn
 Born in Manila. Has a wide experience in computer science and its practical applications. Well-experienced in
 managing, designing and securing cloud infrastructure with Amazon Web Services.
 
-<br>
-
 ### 10 years of IT experience in software engineering. ✨
 
 📝 *Programming Languages*: JavaScript, Ruby, Elixir, Python, PHP, C# and Java/Kotlin<br>
@@ -17,8 +15,6 @@ managing, designing and securing cloud infrastructure with Amazon Web Services.
 🗄 *Databases*: MySQL, PostgreSQL<br>
 ⚡ *Version Control*: Git<br>
 ⚙️ *Operating Systems*: Linux, Mac OS X, Windows<br>
-
-<br>
 
 ### Certifications 🔖
 
