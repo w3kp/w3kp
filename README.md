@@ -3,11 +3,18 @@
 My name is Paul and I am a Full Stack Software Engineer. AWS Certified 3X. Technical Partner.
 
 Born in Manila. Has a wide experience in computer science and its practical applications. Well-experienced in
-managing, designing and securing cloud infrastructure with Amazon Web Services and leveraging other tools
-such as: Docker and Kubernetes.
+managing, designing and securing cloud infrastructure with Amazon Web Services.
 
-10 years of computer programming in various languages such as Ruby on
-Rails, Elixir, NodeJs, Angular and React but mostly any Javascript.
+### 10 years of IT experience in software engineering.
+
+🔢 *Programming Languages*: JavaScript, Ruby, Elixir, Python, PHP, C# and Java<br>
+💻 *Application Frameworks*: Node.Js, React, Angular, Ruby on Rails, Laravel and .Net Core<br>
+🤖 *Automation*: Docker, Bash, Terraform, AWS Cloudformation and Kubernetes<br>
+🔗 *Markup / Frontend*: HTML, Javascript and CSS<br>
+☁️ *Cloud*: Amazon Web Services, Kubernetes, Heroku and Digital Ocean<br>
+📦 *Databases*: MySQL, PostgreSQL
+🆚 *Version Control*: Git
+⚙️ *Operating Systems*: Linux, Mac OS X, Windows
 
 <!--
 **w3kp/w3kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
