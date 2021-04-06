@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m a Software Engineer. AWS Certified 3X. Technical Partner.
+Born in Manila. Has a wide experience in computer science and its practical applications. Well-experienced in
+managing, designing and securing cloud infrastructure with Amazon Web Services and leveraging other tools
+such as: Docker and Kubernetes. 10 years of computer programming in various languages such as Ruby on
+Rails, Elixir, NodeJs, Angular and React but mostly any Javascript.
+
 <!--
 **w3kp/w3kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
