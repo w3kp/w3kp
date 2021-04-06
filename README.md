@@ -12,9 +12,9 @@ managing, designing and securing cloud infrastructure with Amazon Web Services.
 🤖 *Automation*: Docker, Bash, Terraform, AWS Cloudformation and Kubernetes<br>
 🔗 *Markup / Frontend*: HTML, Javascript and CSS<br>
 ☁️ *Cloud*: Amazon Web Services, Kubernetes, Heroku and Digital Ocean<br>
-📦 *Databases*: MySQL, PostgreSQL
-🆚 *Version Control*: Git
-⚙️ *Operating Systems*: Linux, Mac OS X, Windows
+📦 *Databases*: MySQL, PostgreSQL<br>
+🆚 *Version Control*: Git<br>
+⚙️ *Operating Systems*: Linux, Mac OS X, Windows<br>
 
 <!--
 **w3kp/w3kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
