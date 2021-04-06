@@ -24,7 +24,7 @@ Issued Oct 2020 - Expires Oct 2023<br>
 
 **Amazon Web Services Certified Developer - Associate**<br>
 Issued Sep 2020 - Expires Sep 2023<br>
-[See credential](https://www.credly.com/badges/664032ed-7de2-4521-b706-07b2de147fcf)<br
+[See credential](https://www.credly.com/badges/664032ed-7de2-4521-b706-07b2de147fcf)<br>
 
 **Amazon Web Services Certified Solutions Architect - Associate**<br>
 Issued May 2019 - Expires Jun 2022<br>
