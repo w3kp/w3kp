@@ -18,6 +18,12 @@ managing, designing and securing cloud infrastructure with Amazon Web Services.
 
 ### Certifications 🔖
 
+
+**CKAD: Certified Kubernetes Application Developer**<br>
+The Linux Foundation<br>
+Issued Jun 2021 - Expires Jun 2024<br>
+[See credential](https://www.credly.com/badges/2733f333-0ee7-4008-8336-1c02d6e2a6f8)<br>
+
 **Amazon Web Services Certified DevOps Engineer - Professional**<br>
 Issued Oct 2020 - Expires Oct 2023<br>
 [See credential](https://www.credly.com/badges/f7c14603-6094-4048-9908-37410cb90a9d)<br>
