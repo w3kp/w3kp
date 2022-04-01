@@ -28,6 +28,10 @@ Issued Jun 2021 - Expires Jun 2024<br>
 Issued Oct 2020 - Expires Oct 2023<br>
 [See credential](https://www.credly.com/badges/f7c14603-6094-4048-9908-37410cb90a9d)<br>
 
+**Amazon Web Services AWS Certified Security – Specialty**<br>
+Issued Nov 2021 - Expires Nov 2024<br>
+[See credential](https://www.credly.com/badges/be76716a-bd22-4dd5-83a0-78517ae17fde)<br>
+
 **Amazon Web Services Certified Developer - Associate**<br>
 Issued Sep 2020 - Expires Sep 2023<br>
 [See credential](https://www.credly.com/badges/664032ed-7de2-4521-b706-07b2de147fcf)<br>
