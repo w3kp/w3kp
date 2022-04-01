@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Paul and I am a Full Stack Software Engineer. AWS Certified 3X. 1x Kubernetes (CKAD). Technical Partner.
+My name is Paul and I am a Full Stack Software Engineer. AWS Certified 4X. 1x Kubernetes (CKAD). Technical Partner.
 
 Born in Manila. Has a wide experience in computer science and its practical applications. Well-experienced in
 managing, designing and securing cloud infrastructure with Amazon Web Services.
